@@ -1,8 +1,8 @@
-# Unreal Engine 5 Prototype Collection
+# Unreal Engine 5 Gameplay System Collection
  
 A collection of Unreal Engine 5 prototypes.
 
-## Included Prototypes (Primarily written in C++ and exposed to Blueprints for easier customization)
+## Included Systems (Primarily written in C++ and exposed to Blueprints for easier customization)
 
 - Blueprint-exposed inverse kinematics procedural animation system for N legged creatures
 
